@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Phạm Thị Hồng Cẩm CEO Yo88 <https://yo88.soccer/ceo-yo88-pham-thi-hong-cam/>`_ người đã thành lập cổng game bài trực tuyến HOT bậc nhất hiện nay. Được tiếp cận với ngành cá cược game bài trực tuyến từ sớm, tôi tự tin trao đến những kiến thức quý báu của mình.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 36 Dương Đức Hiền/20 D. Đức Hiền, Tây Thạnh, Tân Phú, Hồ Chí Minh, Vietnam. 
 
-   This project is under active development.
+Phone: 0965210598. 
 
-Contents
---------
+Email: phamthihongcamceoyo88@gmail.com. 
 
-.. toctree::
+Website: https://yo88.soccer/ceo-yo88-pham-thi-hong-cam/ 
 
-   usage
-   api
+#ceoyo88, #phamthihongcam, #ceonphamthihongcam88
